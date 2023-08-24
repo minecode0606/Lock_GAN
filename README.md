@@ -7,4 +7,3 @@ Make_LockGAN.ipynb 파일을 열람하면 LockGAN을 MNIST을 사용하여 트�
 =======
 # Lock_GAN
 GAN을 활용한 암호화 알고리즘
->>>>>>> origin/master
